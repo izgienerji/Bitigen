@@ -1,0 +1,7 @@
+A  LICENSE
+A  README.md
+ D READ_ME.md
+ D "git ba\304\237lant\304\261s\304\261.docx"
+ D "~$t ba\304\237lant\304\261s\304\261.docx"
+?? gitbatch.docx
+?? temp_gitstatus.txt
