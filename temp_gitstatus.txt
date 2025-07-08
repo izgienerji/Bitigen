@@ -1,1 +1,2 @@
+ D "bitigen dosya aktar\304\261m\304\261.bat"
  M temp_gitstatus.txt
