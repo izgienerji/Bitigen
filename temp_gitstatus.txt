@@ -1,2 +1,1 @@
- D SS.txt
  M temp_gitstatus.txt
